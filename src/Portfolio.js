@@ -6,7 +6,7 @@ const Portfolio = () => {
   return (
     <div className="portfolio">
       <header>
-        <h1>Satwik chowdary</h1>
+        <h1>YvkChaitanya</h1>
         <p>Web Developer</p>
       </header>
       <section className="about">
